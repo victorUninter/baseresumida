@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "bdcobranca",
+            "database": "cobranca.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true,
+    "workbench.editorLargeFileConfirmation": 5,
+    "python.REPL.enableREPLSmartSend": false
+}
